@@ -1,0 +1,4 @@
+name: react1p2
+recipe: lemp
+config:
+  webroot: .
